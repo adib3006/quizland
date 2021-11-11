@@ -1,0 +1,7 @@
+1. Create a database in xampp named "web"
+2. In that database create a table named "quizland"
+3. create 5 columns named "user" for user name, "emailid" for email,
+ "password" for password, "fullname" for full name and "pno" for phone
+ number.
+
+that's all.
